@@ -47,7 +47,8 @@ vid/pid. Currently, shared vid/pid are used.
 
 bootloader usb description:
 Bus 003 Device 008: ID 16d0:0753 MCS Digistump DigiSpark
-v-usb firmware code usb descriptoin:
+
+v-usb firmware code usb description:
 Bus 003 Device 009: ID 16c0:05dc Van Ooijen Technische Informatica shared ID for use with libusb
 
 ### How do you use usb-led-cli?

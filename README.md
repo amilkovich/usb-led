@@ -69,4 +69,4 @@ Some common examples of running usb-led-cli would be as follows:
 ### How do you use usb-led-tui?
 
 	$ ./usb-led-tui # arrow keys (up/down/left/right) to adjust colors :)
-	$ # also page up/page down/home/end are also useful
+	$ # page up/page down/home/end are also useful

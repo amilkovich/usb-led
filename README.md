@@ -46,10 +46,12 @@ It is planned if this project continues to be developed to get a custom
 vid/pid. Currently, shared vid/pid are used.
 
 bootloader usb description:
+
 	$ lsusb | grep DigiSpark
 	Bus 003 Device 008: ID 16d0:0753 MCS Digistump DigiSpark
 
 v-usb firmware code usb description:
+
 	$ lsusb | grep Ooijen
 	Bus 003 Device 009: ID 16c0:05dc Van Ooijen Technische Informatica shared ID for use with libusb
 

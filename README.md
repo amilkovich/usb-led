@@ -27,10 +27,10 @@ LICENSE file for details.
 
 Currently, the library dependencies are:
 
-micronucleus (LGPLv2, included as binary)
-	http://www.obdev.at/vusb/
+micronucleus (GPLv2, included as binary)
+	http://github.com/micronucleus
 
-v-usb (LGPLv2, included as source)
+v-usb (GPLv2, included as source)
 	http://www.obdev.at/vusb/
 
 ### What bootloader is used for this project?

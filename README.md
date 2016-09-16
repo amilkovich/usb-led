@@ -40,7 +40,7 @@ Currently micronucleus is used as the bootloader.
 
 This is under the TODO list if I decide to take this project any further.
 
-#### What is the description that shows up under lsusb?
+### What is the description that shows up under lsusb?
 
 It is planned if this project continues to be developed to get a custom
 vid/pid. Currently, shared vid/pid are used.

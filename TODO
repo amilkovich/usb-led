@@ -1,0 +1,6 @@
+documentation
+work on inline assembly and timing to make this more precise
+fix bug with hardware implementation having blue light on during bootloader
+clean up the code and maybe add auto building of micronucleus for this project
+schematic/pcb
+custom vid/pid

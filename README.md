@@ -29,6 +29,7 @@ Currently, the library dependencies are:
 
 micronucleus (LGPLv2, included as binary)
 	http://www.obdev.at/vusb/
+
 v-usb (LGPLv2, included as source)
 	http://www.obdev.at/vusb/
 

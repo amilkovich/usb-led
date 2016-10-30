@@ -16,9 +16,8 @@
 static uchar reply_buffer[1];
 
 /*
- * the following inline assembly is inspired and implemented based on an article
- * by Mike Silva
- * http://www.embeddedrelated.com/showarticle/528.php
+ * the following inline assembly is inspired and implemented based on code by
+ * Alan Burlison https://sourceforge.net/p/abavr
  *
  * asm function to output 24-bit rgb value in (g, r, b) order, msb first
  * r18 = red byte to be output
